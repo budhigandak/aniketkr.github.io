@@ -123,6 +123,7 @@ body {
 .about-myself .box {
     padding-top: 20px;
     background-image: linear-gradient(to right,#055b6e,#0887a3,#09bae1);
+    text-align: center;
     color: white;
     border-radius: 8px;
     height: auto;
