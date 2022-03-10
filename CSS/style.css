@@ -148,6 +148,7 @@ body {
 }
 
 .about-myself .box ul li a .fa-brands {
+    padding: 10px;
     font-size: 30px;
     color: white;
 }
