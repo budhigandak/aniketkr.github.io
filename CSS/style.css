@@ -145,6 +145,7 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    padding-left: 8px;
 }
 
 .about-myself .box ul li a .fa-brands {
