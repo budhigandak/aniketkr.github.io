@@ -148,12 +148,13 @@ body {
 }
 
 .about-myself .box ul li a .fa-brands {
-    padding: 10px;
     font-size: 30px;
     color: white;
+    transition: transform 0.8s ease-in-out;
 }
 .about-myself .box ul li a :hover {
-    color: black;
+    color: black !important;
+    transform: rotateY(180deg);
 }
 
 /*education*/
