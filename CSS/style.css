@@ -145,10 +145,11 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    padding-left: 8px;
+
 }
 
 .about-myself .box ul li a .fa-brands {
+    padding: 8px;
     font-size: 30px;
     color: white;
     transition: transform 0.8s ease-in-out;
